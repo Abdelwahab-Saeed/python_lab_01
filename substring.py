@@ -17,7 +17,7 @@ def longest(input_str):
 
   return longest
 
-string = 'abdelwahab'
+string = 'abwzmdo'
 output = longest(string)
 print(f"Longest substring : {output}")
 
